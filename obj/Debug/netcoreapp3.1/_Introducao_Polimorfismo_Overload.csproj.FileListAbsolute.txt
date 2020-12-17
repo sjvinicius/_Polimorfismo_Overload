@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\bin\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\bin\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\bin\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\bin\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\bin\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\bin\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\obj\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\obj\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\obj\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\obj\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\obj\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\obj\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Polimorfismo_Overload\obj\Debug\netcoreapp3.1\_Introducao_Polimorfismo_Overload.genruntimeconfig.cache
